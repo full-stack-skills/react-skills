@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/react-skills",
-  "repository": "https://github.com/full-statck-skills/react-skills",
+  "homepage": "https://github.com/full-stack-skills/react-skills",
+  "repository": "https://github.com/full-stack-skills/react-skills",
   "source": "./",
   "skills": [
     "./skills/nextjs",
