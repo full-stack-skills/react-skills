@@ -1,7 +1,7 @@
 ---
 name: nextjs
 description: Guidance for Next.js using the official docs at nextjs.org/docs. Use when the user needs Next.js concepts, configuration, routing, data fetching, or API reference details.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

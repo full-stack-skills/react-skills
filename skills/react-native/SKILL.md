@@ -1,7 +1,7 @@
 ---
 name: react-native
 description: Provides comprehensive guidance for React Native development including components, navigation, native modules, platform-specific code, and mobile app development. Use when the user asks about React Native, needs to create mobile applications, implement React Native components, or work with React Native features.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

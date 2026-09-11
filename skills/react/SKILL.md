@@ -1,7 +1,7 @@
 ---
 name: react
 description: Provides comprehensive guidance for React development including components, JSX, props, state, hooks, context, performance optimization, and best practices. Use when the user asks about React, needs to create React components, implement hooks, manage component state, or build React applications.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

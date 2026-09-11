@@ -1,7 +1,7 @@
 ---
 name: react-hooks
 description: Provides comprehensive guidance for React Hooks including useState, useEffect, useContext, useReducer, useMemo, useCallback, custom hooks, and hook patterns. Use when the user asks about React Hooks, needs to use hooks in functional components, create custom hooks, or optimize hook performance.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

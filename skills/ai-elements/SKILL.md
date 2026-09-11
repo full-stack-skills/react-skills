@@ -1,5 +1,6 @@
 ---
 name: ai-elements
+license: Apache-2.0
 description: Build AI chat interfaces using ai-elements components — conversations, messages, tool displays, prompt inputs, and more. Use when the user wants to build a chatbot, AI assistant UI, or any AI-powered chat interface.
 ---
 

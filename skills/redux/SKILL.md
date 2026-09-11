@@ -1,7 +1,7 @@
 ---
 name: redux
 description: Provides comprehensive guidance for Redux state management including stores, actions, reducers, middleware, selectors, and Redux Toolkit. Use when the user asks about Redux, needs to manage global state, implement Redux patterns, or work with Redux middleware.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill
